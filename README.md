@@ -11,7 +11,7 @@ This project uses SQL to analyze the dataset of an online music store. The goal 
 To run this project on your machine you need to install any SQL-supported DBMS then follow the steps below or you can also use Google Colab: 
 1. Create a database.
 2. Create tables using the schema diagram provided below.
-3. Import csv files provided in the <a href="https://github.com/avishek09/Music-Store-Analysis/tree/main/dataset">dataset</a> folder.
+3. Import csv files provided.
 
 
 ## Schema Diagram
@@ -49,7 +49,7 @@ You can use this dataset to build your own project and practice your SQL skills.
 
 ## Questions Answered
 
-The following are a few of the questions that are answered in the project (check out <a href="https://github.com/avishek09/Music-Store-Analysis/blob/main/analysis.sql">analysis.sql</a> file for the rest):
+The following are a few of the questions that are answered in the project: 
 
 * What are the most popular genres of music?
 * What are the most popular artists?
