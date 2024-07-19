@@ -1,5 +1,6 @@
 # Music_store_Analysis
 # SQL Project: Music Store Analysis
+@@ Full project on Colab - SQL_project.ipynb
 
 
 ## Description
